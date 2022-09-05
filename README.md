@@ -1,1 +1,1 @@
-This is shell basics project
+This is shell redirections project
